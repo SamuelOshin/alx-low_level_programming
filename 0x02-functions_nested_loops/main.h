@@ -1,2 +1,23 @@
-VimCrypt~03!üò¼o•’¬„øë(éÔ„‡|"éŠùÛAÔMPp´*ÔĞ*>‰tÕ7òŸ»püÇ}8QÅOFnZ}©Üî¨>|j{›õàåŒ?1û›Ešh‡ºfOòB+xà0Ş	0Î¢MÀö™úJK‰N… ™èësÌ‘_ÈÁ¨şf¾{äßRÕà-a·æCyYhÅDx•ó•±>dÑ‘Õş‰ÓÀyÅyˆ@z¢ÍÂSÖR•F„ ğXİî~Ÿmf­@Oœ¹( •]ƒ¥t¾õ,h@Mµõ ¡¼uu±LÆE˜SÇ3Äui`Á¦Óñ\Ì—„ÃjÙÇY»ş¤åMŒ§îL²*GÊ10¬0 œ»hë¼«>ç²mA•vîj2©¨˜`ØÒ«õõri—
-:¾l¤µ{`%îç®¦Õs'¦¬Øt}¨0®Õüt×cÖH¯‡†¿9§IâßºİUìdå{bé%¸Çm
+#ifndef MAIN_H
+#define MAIN_H
+
+/**
+* main.h file
+* Header file that contains the declaration of our functions
+*/
+
+int _putchar(char c);
+void print_alphabet(void);
+void print_alphabet_x10(void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int);
+int print_last_digit(int);
+void jack_bauer(void);
+void times_table(void);
+int add(int, int);
+void print_to_98(int n);
+void print_times_table(int n);
+
+#endif
