@@ -1,35 +1,2 @@
-#ifndef main.h
-
-#define main.h
-
-
-
-int _putchar(char);
-
-void print_alphabet(void);
-
-void print_alphabet_x10(void);
-
-int _islower(int c);
-
-int _isalpha(int c);
-
-int print_sign(int n);
-
-int _abs(int);
-
-int print_last_digit(int);
-
-void jack_bauer(void);
-
-void times_table(void);
-
-int add(int, int);
-
-void print_to_98(int n);
-
-void print_times_table(int n);
-
-
-
-#endif
+VimCrypt~03!üò¼o•’¬„øë(éÔ„‡|"éŠùÛAÔMPp´*ÔÐ*>‰tÕ7žòŸ»püÇ}8QÅOFnZ}©Üî¨>|j{›õàåŒ?1û›Ešh‡ºfOòB+xà0Þ	0Î¢MÀö™úJŽK‰N… ™èësÌ‘_ÈÁ¨þf¾{äßRÕà-a·æCyYhÅDx•ó•±>dÑ‘Õþ‰ÓÀyÅyˆ@z¢ÍÂSÖR•F„ ðXÝî~žŸmf­@Oœ¹( •]ƒ¥t¾õ,h@žMµõ ¡¼uu±LÆE˜SÇ3Äui`Á¦Óñ\Ì—„ÃjÙÇY»þ¤åMŒ§îLž²*GÊ10¬0 œ»hë¼«>ç²mA•vîj2©¨˜`ØÒ«õõri—
+:¾l¤µ{`%îç®¦Õs'¦¬Øt}¨0®Õüt×cÖH¯‡†¿9§IâßºÝUìdå{bé%¸Çm
