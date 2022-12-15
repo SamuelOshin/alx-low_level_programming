@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* Main - This script prints _putchar
-* with a new line
-* Return: Always 0 (Success)
-*/
+ * Main - This script prints _putchar
+ * with a new line
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
@@ -17,5 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
